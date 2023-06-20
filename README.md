@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-fakhar-707681265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fakhar" height="30" width="40" /></a>
-<a href="https://kaggle.com/fakhar iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fakhar iqbal" height="30" width="40" /></a>
+<a href="https://kaggle.com/fakhariqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fakhar iqbal" height="30" width="40" /></a>
 <a href="https://medium.com/@fakhar3534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fakhar3534" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fakhar iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fakhar iqbal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKTEZERgF7q_A0RSK8yCzVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fakhar iqbal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
