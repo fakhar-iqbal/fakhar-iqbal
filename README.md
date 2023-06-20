@@ -1,4 +1,4 @@
-![logo](https://github.com/fakhar-iqbal/fakhar-iqbal/blob/main/gallery.png)
+![logo](https://github.com/fakhar-iqbal/fakhar-iqbal/blob/main/code%20gallery.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Fakhar</h1>
 <h3 align="center">A passionate Coder exploring Artificial Intelligence</h3>
