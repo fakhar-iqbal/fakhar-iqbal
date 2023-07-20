@@ -1,4 +1,4 @@
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![logo](https://github.com/fakhar-iqbal/fakhar-iqbal/blob/main/i%20unbias%20data%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Fakhar</h1>
 <h3 align="center">A passionate Programmer, practicing Machine Learning</h3>
