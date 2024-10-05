@@ -1,15 +1,15 @@
 ![logo](https://github.com/fakhar-iqbal/fakhar-iqbal/blob/main/copy2.png)
 
-<h1 align="center">Let's make Artificial Brains...</h1>
-<h3 align="center">A passionate Programmer, practicing Machine Learning</h3>
+<h1 align="center">Let's make Apps Intelligent...</h1>
+<h3 align="center">A passionate Programmer, practicing Machine Learning in Apps</h3>
 
 
 
-- 🌱 I’m currently learning **Fastai, NLP, Reinforcement Learning**
+- 🌱 I’m currently implementing **AI Apps**
 - 📝 My Portfolio page ->  [https://fakhar-iqbal.github.io/](https://fakhar-iqbal.github.io/)
 - 📝 I write articles on [https://medium.com/@fakhar3534](https://medium.com/@fakhar3534)
 
-- 💬 Ask me about **Programming in any language, Machine Learning, Data Science**
+- 💬 Ask me about **Programming in any language, Machine Learning, Data Science, Mobile Apps with Artificial Intelligence**
 
 - 📫 How to reach me **fakhareiqbal3534@gmail.com**
 
