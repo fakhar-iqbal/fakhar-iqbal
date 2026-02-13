@@ -1,4 +1,4 @@
-![logo](https://github.com/fakhar-iqbal/fakhar-iqbal/blob/main/copy2.png)
+![logo](https://github.com/fakhar-iqbal/fakhar-iqbal/blob/main/copy222.png)
 
 <h1 align="center">Let's make Machines Intelligent...</h1>
 <h3 align="center">The ML Guy landing Models in Cloud</h3>
@@ -7,6 +7,7 @@
 
 - ☁ Working on AI/ML apps with automated CI/CD in Cloud
 - 📝 My Linkedin page ->  [www.linkedin.com/in/muhammad-fakhar3534](www.linkedin.com/in/muhammad-fakhar3534)
+- 📝 My Portfolio ->  [fakhar-iqbal.vercel.app](fakhar-iqbal.vercel.app)
 - 📝 I write articles on [https://medium.com/@fakhar3534](https://medium.com/@fakhar3534)
 
 - 💬 Ask me about **AI/ML and Data Science with MLOps**
@@ -17,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-fakhar-707681265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fakhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-fakhar3534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fakhar" height="30" width="40" /></a>
 <a href="https://kaggle.com/fakhariqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fakhar iqbal" height="30" width="40" /></a>
 <a href="https://medium.com/@fakhar3534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fakhar3534" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCKTEZERgF7q_A0RSK8yCzVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fakhar iqbal" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
