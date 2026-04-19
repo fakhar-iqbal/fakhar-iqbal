@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/fakhar-iqbal/fakhar-iqbal/main/copy222.png" width="100%"/>
 
-# Your goto AI/ML Engineer
+# Your goto AI/ML Engineer ✪
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+RAG+Chatbots+that+know+your+business;Fine-tuning+LLMs+that+speak+your+language;Shipping+AI+Agents+that+work+while+you+sleep;From+raw+data+to+production+AI+%E2%80%94+end+to+end)](https://git.io/typing-svg)
